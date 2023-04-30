@@ -1,0 +1,10 @@
+site_name: Test docs
+site_description: 'A docs test'
+site_author: 'Geoff Bourne'
+docs_dir: docs/
+repo_name: 'itzg/try-ghpages-action'
+repo_url: 'https://github.com/itzg/try-ghpages-action'
+nav:
+  - Home: index.md
+theme:
+  name: 'material'
